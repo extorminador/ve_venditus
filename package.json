@@ -1,0 +1,21 @@
+{
+  "name": "venditus",
+  "version": "0.0.1",
+  "description": "website with Jade, SCSS, Gulp, Git, NPM...",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "Jade",
+    "Gulp",
+    "SCSS",
+    "Git",
+    "NPM"
+  ],
+  "author": "@angelvalero",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

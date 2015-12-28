@@ -1,5 +1,49 @@
+@import 'base/reset';
+@import 'base/typografy';
+
+*{
+
+}
 body{
-  background-color: gray;
+  background-color: #FFF;
   color: red;
-  width: 2000px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
+
+h1.title{
+  color: red;
+  font-size: 42px;
+  text-align: center;
+}
+nav{
+  clear: both;
+  background-color: #CCC;
+  display: block;
+  ul{
+    display: block;
+    li{
+      background-color: yellow;
+      display: block;
+      float: left;
+      width: 20%;
+      a{
+        color: red;
+        display: inline-block;
+        font-size: 16px;
+        font-family: 'Open Sans', sans-serif;
+        text-decoration: none;
+        width: 100%;
+      }
+    }
+  }
+}
+.class{
+  display: flex;
+  transition: transform 1s;
+  width: calc(50% - 2em)
+}
+::placeholder {
+  color: #ccc
 }

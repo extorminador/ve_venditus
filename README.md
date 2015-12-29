@@ -1,4 +1,7 @@
-# Venditus - Proyecto creado con la metodología del curso de Herramientas Frontend 2015
+# Venditus - Herramientas Frontend 2015
+
+## Proyecto creado con la metodología del curso de Herramientas Frontend 2015
+
 ##### Aprende a trabajar de una forma profesional con las herramientas que mejorarán tu flujo de desarrollo frontend
 
 #### Tecnologías

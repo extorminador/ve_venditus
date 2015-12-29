@@ -1,10 +1,10 @@
-# Venditus - Herramientas Frontend 2015
+# Venditus - FrontEnd Tools 2015 in Escuela IT
 
-## Proyecto creado con la metodología del curso de Herramientas Frontend 2015
+## Project created with the course methodology FrontEnd Tools 2015
 
-##### Aprende a trabajar de una forma profesional con las herramientas que mejorarán tu flujo de desarrollo frontend
+##### Learn to work in a professional manner with the tools that will enhance your development flow frontend
 
-#### Tecnologías
+#### Technologies
 * 01 - GIT
 * 02 - GULP
 * 03 - JADE
